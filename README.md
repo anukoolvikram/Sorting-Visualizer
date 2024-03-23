@@ -1,6 +1,6 @@
 **Sorting Visualizer**
 
-This Sorting Visualizer is a web application that provides a visual representation of various sorting algorithms. It allows users to observe and understand how different sorting algorithms work in real-time.
+This Sorting Visualizer is a web application that provides a visual representation of various sorting algorithms. It allows users to observe and understand how different sorting algorithms work in real-time. Click on https://anukoolvikram.github.io/Sorting-Visualizer/ to run.
 
 **Features**
 
